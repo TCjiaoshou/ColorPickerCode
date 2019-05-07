@@ -1,0 +1,16 @@
+D:\_NET&C#\WPF\拾色器精简\拾色器精简\bin\Release\拾色器精简.exe.config
+D:\_NET&C#\WPF\拾色器精简\拾色器精简\bin\Release\拾色器精简.exe
+D:\_NET&C#\WPF\拾色器精简\拾色器精简\bin\Release\拾色器精简.pdb
+D:\_NET&C#\WPF\拾色器精简\拾色器精简\obj\Release\MainWindow.g.cs
+D:\_NET&C#\WPF\拾色器精简\拾色器精简\obj\Release\NULL.g.cs
+D:\_NET&C#\WPF\拾色器精简\拾色器精简\obj\Release\App.g.cs
+D:\_NET&C#\WPF\拾色器精简\拾色器精简\obj\Release\拾色器精简_MarkupCompile.cache
+D:\_NET&C#\WPF\拾色器精简\拾色器精简\obj\Release\拾色器精简_MarkupCompile.lref
+D:\_NET&C#\WPF\拾色器精简\拾色器精简\obj\Release\MainWindow.baml
+D:\_NET&C#\WPF\拾色器精简\拾色器精简\obj\Release\NULL.baml
+D:\_NET&C#\WPF\拾色器精简\拾色器精简\obj\Release\拾色器精简.g.resources
+D:\_NET&C#\WPF\拾色器精简\拾色器精简\obj\Release\拾色器精简.Properties.Resources.resources
+D:\_NET&C#\WPF\拾色器精简\拾色器精简\obj\Release\拾色器精简.csproj.GenerateResource.cache
+D:\_NET&C#\WPF\拾色器精简\拾色器精简\obj\Release\拾色器精简.csproj.CoreCompileInputs.cache
+D:\_NET&C#\WPF\拾色器精简\拾色器精简\obj\Release\拾色器精简.exe
+D:\_NET&C#\WPF\拾色器精简\拾色器精简\obj\Release\拾色器精简.pdb

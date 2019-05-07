@@ -1,0 +1,38 @@
+﻿<Window x:Name="window" x:Class="拾色器.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:拾色器"
+        mc:Ignorable="d"
+        Title="拾色器" Height="245.734" Width="340.4"  ResizeMode="CanMinimize" Background="#FF9F9F9F" Visibility="Visible">
+    <Grid Margin="0,-2,0,2">
+        <TextBox x:Name="txtboxHexColorMaster" HorizontalAlignment="Left" Height="24" Margin="35,187,0,0" IsReadOnly="True" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="99" TextAlignment="Center"/>
+        <TextBlock x:Name="txtbokColorMaster" HorizontalAlignment="Left" Margin="10,189,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="20" Height="20" Background="White" Foreground="{x:Null}"/>
+        <TextBox x:Name="txtboxHexColorOne" HorizontalAlignment="Left" Height="24" Margin="35,137,0,0" IsReadOnly="True" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="99" TextAlignment="Center"/>
+        <TextBlock x:Name="txtbokColorOne" HorizontalAlignment="Left" Margin="10,139,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="20" Height="20" Background="White" Foreground="{x:Null}"/>
+        <TextBox x:Name="txtboxHexColorTwo" HorizontalAlignment="Left" Height="24" Margin="35,105,0,0" IsReadOnly="True" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="99" TextAlignment="Center"/>
+        <TextBlock x:Name="txtbokColorTwo" HorizontalAlignment="Left" Margin="10,107,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="20" Height="20" Background="White" Foreground="{x:Null}"/>
+        <TextBox x:Name="txtboxHexColorThree" HorizontalAlignment="Left" Height="24" Margin="35,75,0,0" IsReadOnly="True" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="99" TextAlignment="Center"/>
+        <TextBlock x:Name="txtbokColorThree" HorizontalAlignment="Left" Margin="10,76,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="20" Height="20" Background="White" Foreground="{x:Null}"/>
+        <TextBox x:Name="txtboxHexColorFour" HorizontalAlignment="Left" Height="24" Margin="35,43,0,0" IsReadOnly="True" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="99" TextAlignment="Center"/>
+        <TextBlock x:Name="txtbokColorFour" HorizontalAlignment="Left" Margin="10,44,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="20" Height="20" Background="White" Foreground="{x:Null}"/>
+        <TextBox x:Name="txtboxHexColorFives" HorizontalAlignment="Left" Height="24" Margin="35,12,0,0" IsReadOnly="True" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="99" TextAlignment="Center"/>
+        <TextBlock x:Name="txtbokColorFives" HorizontalAlignment="Left" Margin="10,13,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="20" Height="20" Background="White" Foreground="{x:Null}"/>
+        <Button x:Name="btnCopy" Content="复制" HorizontalAlignment="Left" Margin="160,189,0,0" VerticalAlignment="Top" Width="51" Click="BtnCopy_Click"/>
+        <Button x:Name="btnStart" Content="拾色" HorizontalAlignment="Left" Margin="272,188,0,0" VerticalAlignment="Top" Width="51" Click="BtnStart_Click" Background="#FFAAFFAA"/>
+        <Button x:Name="btnRecord" Content="记录" HorizontalAlignment="Left" VerticalAlignment="Top" Width="51" Margin="160,164,0,0" Click="BtnRecord_Click"/>
+        <TextBox x:Name="txtboxShow" IsReadOnly="True" HorizontalAlignment="Left" Height="143" Margin="164,13,0,0" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" VerticalAlignment="Top" Width="160"/>
+        <CheckBox x:Name="checkAutoCopy" Content="自动" HorizontalAlignment="Left" Margin="216,191,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkAutoRecord" Content="自动" HorizontalAlignment="Left" Margin="216,166,0,0" VerticalAlignment="Top" Click="CheckAutoRecord_Click"/>
+        <Button x:Name="btnClose" Content="清空" HorizontalAlignment="Left" VerticalAlignment="Top" Width="51" Margin="272,164,0,0" Click="BtnClose_Click" Background="#FFFFAAAA"/>
+        <CheckBox x:Name="checkFives" Content="" HorizontalAlignment="Left" Margin="139,17,0,0" VerticalAlignment="Top"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="139,48,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkFour" Content="" HorizontalAlignment="Left" Margin="139,48,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkThree" Content="" HorizontalAlignment="Left" Margin="139,80,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkTwo" Content="" HorizontalAlignment="Left" Margin="139,109,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkOne" Content="" HorizontalAlignment="Left" Margin="139,141,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkNew" Content="" HorizontalAlignment="Left" Margin="139,192,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

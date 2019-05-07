@@ -1,0 +1,17 @@
+D:\_NET&C#\WPF\拾色器\拾色器\bin\Debug\拾色器.exe.config
+D:\_NET&C#\WPF\拾色器\拾色器\bin\Debug\拾色器.exe
+D:\_NET&C#\WPF\拾色器\拾色器\bin\Debug\拾色器.pdb
+D:\_NET&C#\WPF\拾色器\拾色器\obj\Debug\拾色器.csprojAssemblyReference.cache
+D:\_NET&C#\WPF\拾色器\拾色器\obj\Debug\MainWindow.g.cs
+D:\_NET&C#\WPF\拾色器\拾色器\obj\Debug\App.g.cs
+D:\_NET&C#\WPF\拾色器\拾色器\obj\Debug\拾色器_MarkupCompile.cache
+D:\_NET&C#\WPF\拾色器\拾色器\obj\Debug\拾色器_MarkupCompile.lref
+D:\_NET&C#\WPF\拾色器\拾色器\obj\Debug\MainWindow.baml
+D:\_NET&C#\WPF\拾色器\拾色器\obj\Debug\拾色器.g.resources
+D:\_NET&C#\WPF\拾色器\拾色器\obj\Debug\拾色器.Properties.Resources.resources
+D:\_NET&C#\WPF\拾色器\拾色器\obj\Debug\拾色器.csproj.GenerateResource.cache
+D:\_NET&C#\WPF\拾色器\拾色器\obj\Debug\拾色器.csproj.CoreCompileInputs.cache
+D:\_NET&C#\WPF\拾色器\拾色器\obj\Debug\拾色器.exe
+D:\_NET&C#\WPF\拾色器\拾色器\obj\Debug\拾色器.pdb
+D:\_NET&C#\WPF\拾色器\拾色器\obj\Debug\Void.g.cs
+D:\_NET&C#\WPF\拾色器\拾色器\obj\Debug\Void.baml
