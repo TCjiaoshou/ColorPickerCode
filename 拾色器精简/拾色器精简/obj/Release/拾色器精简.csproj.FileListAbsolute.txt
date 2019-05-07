@@ -14,3 +14,4 @@ D:\_NET&C#\WPF\拾色器精简\拾色器精简\obj\Release\拾色器精简.cspro
 D:\_NET&C#\WPF\拾色器精简\拾色器精简\obj\Release\拾色器精简.csproj.CoreCompileInputs.cache
 D:\_NET&C#\WPF\拾色器精简\拾色器精简\obj\Release\拾色器精简.exe
 D:\_NET&C#\WPF\拾色器精简\拾色器精简\obj\Release\拾色器精简.pdb
+D:\_NET&C#\WPF\拾色器精简\拾色器精简\obj\Release\拾色器精简.csprojAssemblyReference.cache

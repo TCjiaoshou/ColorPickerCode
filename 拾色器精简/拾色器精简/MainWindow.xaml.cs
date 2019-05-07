@@ -25,7 +25,7 @@ namespace 拾色器精简
         {
             InitializeComponent();
             WindowStartupLocation = WindowStartupLocation.CenterScreen; //窗口居中
-
+            this.Topmost = true;
         }
 
         //拖动窗口
@@ -67,6 +67,5 @@ namespace 拾色器精简
 
             Clipboard.SetDataObject(str);//加入剪贴板
         }
-
     }
 }
